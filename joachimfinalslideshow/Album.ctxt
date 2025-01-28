@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Album
+comment0.text=\n\ An\ album\ is\ a\ collection\ of\ images.\ It\ reads\ images\ from\ a\ folder\ on\ disk,\n\ and\ it\ can\ be\ used\ to\ retrieve\ single\ images.\n\ \n\ The\ folder\ name\ to\ read\ from\ is\ passed\ in\ at\ construction.\n\ \n\ @author\ Michael\ K\u00F6lling\n\ @version\ 1.0\n
+comment1.params=directoryName
+comment1.target=Album(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Album\n
+comment2.params=imageNumber
+comment2.target=Image\ getImage(int)
+comment2.text=\n\ Return\ a\ image\ from\ this\ album.\n
+comment3.params=
+comment3.target=int\ numberOfImages()
+comment3.text=\n\ Return\ the\ number\ of\ images\ in\ this\ album.\n
+comment4.params=dirName
+comment4.target=java.util.List\ loadImages(java.lang.String)
+comment4.text=\n\ Load\ the\ images\ of\ all\ image\ files\ in\ the\ given\ directory.\n
+numComments=5

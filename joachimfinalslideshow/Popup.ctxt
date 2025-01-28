@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Popup
+comment0.text=\n\ my\ attempt\ at\ the\ final\ challenge\ question\n\ this\ class\ serves\ to\ create\ the\ statistics\ pop-up\ when\ the\ statistics\ button\ is\ pressed\n\ seperate\ class\ was\ made\ to\ keep\ changes\ to\ gui\ class\ to\ a\ minimum\n
+comment1.params=
+comment1.target=Popup()
+comment1.text=\n\ initialising\ the\ pop-up\ and\ the\ data\ that\ is\ being\ stored\n
+comment2.params=imagesViewed\ avgWidth
+comment2.target=void\ displayPopup(int,\ int)
+comment2.text=\n\ this\ will\ display\ the\ statistics\ pop-up\n
+numComments=3
